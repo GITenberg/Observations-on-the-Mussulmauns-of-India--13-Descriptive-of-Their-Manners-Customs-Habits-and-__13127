@@ -1,0 +1,40 @@
+_repo: Observations-on-the-Mussulmauns-of-India--13-Descriptive-of-Their-Manners-Customs-Habits-and-__13127
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Meer Hasan Ali, Mrs.
+    aliases:
+    - Hassan Ali, Meer, Mrs.
+    - Hasan Ali, Meer, Mrs.
+    - Ali, Meer Hasan, Mrs.
+    gutenberg_agent_id: '4850'
+    url: http://www.gutenberg.org/2009/agents/4850
+  editor:
+    agent_name: Crooke, William
+    alias: Crooke, W.
+    birthdate: 1848
+    deathdate: 1923
+    gutenberg_agent_id: '33412'
+    url: http://www.gutenberg.org/2009/agents/33412
+description: ''
+gutenberg_bookshelf: Islam
+gutenberg_issued: '2004-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13127'
+  lccn: '18002326'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Muslims -- India'
+- !lcsh 'India -- Social life and customs'
+title: "Observations on the Mussulmauns of India\r\nDescriptive of Their Manners,\
+  \ Customs, Habits and Religious Opinions Made During a Twelve Years' Residence in\
+  \ Their Immediate Society"
+url: http://www.gutenberg.org/ebooks/13127
